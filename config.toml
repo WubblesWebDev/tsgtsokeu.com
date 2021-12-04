@@ -1,0 +1,119 @@
+baseURL = "https://tsgtsokeu.com"
+title = "Tsgtsokeu"
+languageCode = "en"
+DefaultContentLanguage = "en" # Change this to change the site's language
+theme = "hugo.386"
+preserveTaxonomyNames = true
+
+[params]
+    # The name to display as main title in the home page
+    mainpagetitle = "Tsgtsokeu ~ Цгцокеу"
+
+    # The subtitle to display under the title in the home page
+    mainpagesubtitle = "Abigail's Blog" 
+
+    # The description of your website. It will be displayed in the home page
+    mainpagedesc = "English Translation of Tsgtsokeu  :  Ailready having the tools to accomplish the tasks before you even thought to begin."
+
+    # The name to display in the copyright section in the footer
+    copyrightname = "WubblesWebDev"
+
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    copyrighturl = "http://jmf-portfolio.netlify.com"
+
+    # Show the "built on Hugo" disclaimer
+    showhugo = true
+
+    # Urls for social networks 
+    twitter = "https://twitter.com/AbigailFBarton"
+
+    # Enables or disables the loading animations. false activates them. Default is false.
+    loadfastload = false
+
+    # Sets the speed for the page loading effect. Default is 1.0.
+    loadspeedfactor = 1.0
+
+    # Enables or disables the second flyby cursor. Default is false.
+    loadonepass = false
+
+[params.copyright]
+    name = "Abigail Buck"
+
+    # Text to go between copyright and hugo disclaimer (if enabled)
+    suffix = "Tsgtsokeu"
+
+[menu]
+  [[menu.main]]
+    identifier = "Posts"
+    name = "All posts"
+    url = "/post/"      
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "Page2"
+    name = "Daisy"
+    url = "/daisy/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "Page3"
+    name = "Iris"
+    url = "/iris/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "Page4"
+    name = "Yara"
+    url = "/yarrow/"
+    weight = 40
+  
+  [[menu.main]]
+    identifier = "Page5"
+    name = "Lil"
+    url = "/lilac/"
+    weight = 50
+  
+  [[menu.main]]
+    identifier = "Page6"
+    name = "Kid"
+    url = "/orchid/"
+    weight = 60
+  
+  [[menu.main]]
+    identifier = "Page7"
+    name = "Sunny"
+    url = "/sunflower/"
+    weight = 70  
+  
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
