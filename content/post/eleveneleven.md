@@ -1,5 +1,5 @@
 ---
-title: "11 11"
+title: "11:11"
 date: 2021-12-03T22:25:28-08:00
 description: "profound thoughts"
 tags: ["life"]
@@ -32,7 +32,7 @@ In my mind there sits a heap of unfinished projects, half thoughts, dreams put t
 
 > Win the Treasure (Intelligence, Status, Love)
 
-... I'm slipping, I'm worried about myself, I'm worried that instead of fighting that Dragon I'll turn back and cower. Either run away or lay down and die. I want to be the person that fights that Dragon, I really do, but Abby... Mental Health is a thing and running at things fool speed is only effective for 25 to 30 minutes. After that, the more effective way is always with plenty of breaks, being kind to yourself, and meditation
+... I'm slipping, I'm worried about myself, I'm worried that instead of fighting that Dragon I'll turn back and cower. Either run away or lay down and die. I want to be the person that fights that Dragon, I really do, but Maven... Mental Health is a thing and running at things fool speed is only effective for 25 to 30 minutes. After that, the more effective way is always with plenty of breaks, being kind to yourself, and meditation
 
 You aren't defined by being a hard worker, you need to find where your strengths lie and play to them.
  

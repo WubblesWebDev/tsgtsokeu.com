@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
     mainpagetitle = "Tsgtsokeu ~ Цгцокеу"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Abigail's Blog" 
+    mainpagesubtitle = "Maven's Blog" 
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "English Translation of Tsgtsokeu  :  Already having the tools to accomplish the tasks before you even thought to begin."
