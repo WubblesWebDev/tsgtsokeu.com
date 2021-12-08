@@ -20,7 +20,7 @@ There was so much fat... OH MY GOODNESS, who knew Turkeys were so fatty? In tota
 
 The finished product came out like one of those jello cakes wives from the 1950s would serve, except made out of pure meat. Meat Jello. Hmmmm. Delicious.
 
-**"But Abby, what did it taste like???"**
+**"But Maven, what did it taste like???"**
 
 It tasted like the unburnt scrapings of a pan that was cooking meat... 5 hours ago. I know, I know. I'm a genius to describe something in such an elegant way, but really, it tasted just like that. 
 

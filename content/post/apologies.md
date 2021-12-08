@@ -53,4 +53,4 @@ I care! I care about my life, I care about getting it back on straight and I can
 
 Anyway, This is the first time I’ve ever posted a Journal entry on the internet, so… I’m glad I made it  so no one can comment on it!  ^v^ 
 
-Eat it, losers! This is Abby’s blog and you can’t be a part of it!
+Eat it, losers! This is Maven’s blog and you can’t be a part of it!

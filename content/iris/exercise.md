@@ -2,8 +2,8 @@
 title: "10:37 Mile"
 date: 2021-12-05T18:25:17-08:00
 description: "Working out is important"
-tags: ["running"]
-categories: ["Journal"]
+tags: ["Running Stats"]
+categories: [""]
 authors: ["Iris"]
 ---
 
