@@ -10,7 +10,7 @@ authors: ["Sunny"]
 
 I wasn't sure if we were going to have Friendsgiving this year. I'm super glad we did because not only did I get a chance to stretch my culinary practices, but I also got to spend time with my friends again. Like legitimately hang out. I forgot what it's like to share a kitchen with the ones I love. Has a way of bringing things back.
 
-Anyway, I did an interesting thing with the turkey this year. I sometimes watch [Adam Ragusea](https://m.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ) and he did a video about deboning an entire Turkey and dry brining while you make a Demi gloss with the bones. It thought *"what a perfect opportunity to try something new!"* so I went out, bought a 20 Turkey and deboned that sucker! Only took me about 3 hours. I had to pull out the thick tendons (the ones in the drumsticks) with pliers. They came out like porcupine needles, except... fleshy. 
+Anyway, I did an interesting thing with the turkey this year. I sometimes watch [Adam Ragusea](https://m.youtube.com/channel/UC9_p50tH3WmMslWRWKnM7dQ) and he did a video about deboning an entire Turkey and dry brining while you make a Demi gloss with the bones. It thought **"what a perfect opportunity to try something new!"** so I went out, bought a 20 Turkey and deboned that sucker! Only took me about 3 hours. I had to pull out the thick tendons (the ones in the drumsticks) with pliers. They came out like porcupine needles, except... fleshy. 
 
 I then cooked the bones for about, uhhhh... 24 hours? The whole house smelt like dead Turkey which did not make my vegan mother very happy.
 
@@ -20,7 +20,7 @@ There was so much fat... OH MY GOODNESS, who knew Turkeys were so fatty? In tota
 
 The finished product came out like one of those jello cakes wives from the 1950s would serve, except made out of pure meat. Meat Jello. Hmmmm. Delicious.
 
-> *'But Abby, what did it taste like???'*
+**"But Abby, what did it taste like???"**
 
 It tasted like the unburnt scrapings of a pan that was cooking meat... 5 hours ago. I know, I know. I'm a genius to describe something in such an elegant way, but really, it tasted just like that. 
 

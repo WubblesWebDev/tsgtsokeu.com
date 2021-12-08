@@ -7,7 +7,7 @@ categories: ["Journal"]
 authors: ["Iris"]
 ---
 
-Well here I am. I could be doing about a dozen other things, like cleaning the house, doing school (I've got to get better at factoring quadtratics and a Python course I am taking) but *noooooo.* I am **battling** freaking github! 
+Well here I am. I could be doing about a dozen other things, like cleaning the house, doing school (I've got to get better at factoring quadtratics and a Python course I am taking) but noooooo. I am **battling** freaking github! 
 
 so here is the cool, fun, awesome things I've been wasting my time on! I needed a way to connect the contents of my website to the contents on my computer easily. Luckly programmers throughout the years have been wanting to do that for a long time, so thus was born git! 
 

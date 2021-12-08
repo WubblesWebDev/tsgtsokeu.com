@@ -13,10 +13,10 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "Abigail's Blog" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "English Translation of Tsgtsokeu  :  Ailready having the tools to accomplish the tasks before you even thought to begin."
+    mainpagedesc = "English Translation of Tsgtsokeu  :  Already having the tools to accomplish the tasks before you even thought to begin."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "WubblesWebDev"
+    copyrightname = "https://github.com/WubblesWebDev"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "http://jmf-portfolio.netlify.com"
@@ -26,18 +26,21 @@ preserveTaxonomyNames = true
 
     # Urls for social networks 
     twitter = "https://twitter.com/AbigailFBarton"
+    github = "https://github.com/WubblesWebDev"
+    chess = "https://www.chess.com/member/abigailbarton"
+    goodreads = "https://www.goodreads.com/user/show/97441392-abigail-patrick"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 1.0
+    loadspeedfactor = 2
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = false
 
 [params.copyright]
-    name = "Abigail Buck"
+    name = "Maven"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
     suffix = "Tsgtsokeu"
