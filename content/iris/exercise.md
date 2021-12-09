@@ -4,7 +4,7 @@ date: 2021-12-05T18:25:17-08:00
 description: "Working out is important"
 tags: ["Running Stats"]
 categories: [""]
-authors: ["Iris"]
+authors: "Iris"
 ---
 
 First time I've gone for a run in awhile. I really wish I would do it more often because I always feel better when I'm done.

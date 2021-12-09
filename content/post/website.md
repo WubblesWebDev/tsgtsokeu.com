@@ -4,7 +4,7 @@ date: 2021-12-01T16:36:34-08:00
 description: "if all goes to plan, I will have made this post 100% from my phone"
 tags: ["Programming"]
 categories: ["Journal"]
-authors: ["Daisy"]
+authors: "Daisy"
 ---
 
 That’s right, you heard me! I spent literally all day pounding my head against a keyboard trying desperately to figure out how the hell to get Hugo and DreamHost to play nice. It’s really fucking stupid how easy it really was in the end, but god... the things I learned along the way!!

@@ -4,7 +4,7 @@ date: 2021-12-07T18:25:36-06:00
 description: "Kale salad I made today"
 tags: [""]
 categories: ["Recipe"]
-authors: ["Daisy"]
+authors: "Daisy"
 ---
 
 # Before

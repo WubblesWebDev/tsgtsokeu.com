@@ -1,10 +1,10 @@
 ---
-title: "Python_Class"
+title: "Class"
 date: 2021-12-06T15:31:42-06:00
 description: "When quined, Yields a Tortoise's Love-song"
 tags: ["GEB", "Programming"]
 categories: ["School"]
-authors: ["Daisy"]
+authors: "Daisy"
 ---
 
 Today for my python class I am taking on Coursera we were covering functions, and well... I got a little sidetracked and decided to make a program I was thinking about this morning while reading GEB.

@@ -4,7 +4,7 @@ date: 2021-12-08T13:36:14-06:00
 description: "Set on You"
 tags: ["GEB"]
 categories: ["Journal"]
-authors: ["Lil"]
+authors: "Lil"
 ---
 
 This morning I had a really hard time... I ended up staying in bed until 9am. Normally I am up and out of bed around 7:30 and I have my alarm set for 6:30 (spending an hour in the morning to meditate or to finishing any dreams that I was in the middle of), but this morning I literally couldn't pull myself out of bed.
