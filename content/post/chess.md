@@ -9,9 +9,7 @@ tags = [
 categories = [
     "Games",
 ]
-authors = [
-    "Iris",
-]
+authors = "Iris"
 +++
 
 ![picture](/chessBoard.png "chessboard")

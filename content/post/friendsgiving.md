@@ -4,7 +4,7 @@ date: 2021-12-02T21:33:48-08:00
 description: "A fantastic meal!"
 tags: ["Life"]
 categories: ["Journal"]
-authors: ["Sunny"]
+authors: "Sunny"
 ---
 
 

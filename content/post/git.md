@@ -4,7 +4,7 @@ date: 2021-12-03T14:05:11-06:00
 description: "Github must hate me"
 tags: ["Programming"]
 categories: ["Journal"]
-authors: ["Iris"]
+authors: "Iris"
 ---
 
 Well here I am. I could be doing about a dozen other things, like cleaning the house, doing school (I've got to get better at factoring quadtratics and a Python course I am taking) but noooooo. I am **battling** freaking github! 

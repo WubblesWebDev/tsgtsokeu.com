@@ -4,7 +4,7 @@ date: 2021-11-30T21:46:19-06:00
 description: "they are really hard"
 tags: ["Life"]
 categories: ["Journal"]
-authors: ["Yara"]
+authors: "Yara"
 ---
 
 Trying to get my life back on track is a lot harder than I thought it would, especially when I am not 100%, mentally, physically or spiritually. I know that I need to keep pushing through it, because the damage that I’ve done is insurmountable and unimaginable.

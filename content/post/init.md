@@ -4,7 +4,7 @@ date: 2021-12-07T20:42:57-06:00
 description: "git init, git add -A, git status, git pull..."
 tags: ["Programming"]
 categories: ["Journal"]
-authors: ["Yara"]
+authors: "Yara"
 ---
 
 I finally got git to start working!!

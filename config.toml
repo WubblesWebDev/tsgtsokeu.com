@@ -28,7 +28,7 @@ preserveTaxonomyNames = true
     twitter = "https://twitter.com/AbigailFBarton"
     github = "https://github.com/WubblesWebDev"
     chess = "https://www.chess.com/member/abigailbarton"
-    goodreads = "https://www.goodreads.com/user/show/97441392-abigail-patrick"
+    goodreads = "https://www.goodreads.com/user/show/97441392-maven"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
@@ -87,6 +87,12 @@ preserveTaxonomyNames = true
     name = "Sunny"
     url = "/sunflower/"
     weight = 70  
+
+  [[menu.main]]
+    identifier = "Page8"
+    name = "#"
+    url = "/meetings/"
+    weight = 1  
   
 
 [taxonomies]

@@ -4,7 +4,7 @@ date: 2021-12-03T22:25:28-08:00
 description: "profound thoughts"
 tags: ["life"]
 categories: ["Journal"]
-authors: ["Kid"]
+authors: "Kid"
 ---
 
 ![picture](/1111.jpg)
