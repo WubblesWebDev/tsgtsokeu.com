@@ -4,5 +4,5 @@ date: {{ .Date }}
 description: ""
 tags: [""]
 categories: [""]
-authors: [""]
+authors: ""
 ---
