@@ -9,7 +9,7 @@ authors: "Yara"
 
 **ITS OFFICAL** I am a programmer! I got to make something that is actually <cite>useful! [^1]</cite>
 
-[^1]: [#](https://tsgtsokeu/meetings/ma_4/)
+[^1]: [#](https://tsgtsokeu.com/meetings/ma_4/)
 
 last night I stayed up until 1:50am trying to finish a program that actually had a purpose! (that's right! not just some meaningless exercise for school, or for some future coder tic-tac-toe game.)
 
