@@ -2,9 +2,9 @@
 title: "Inlove"
 date: 2021-12-12T19:00:47-06:00
 description: "I'm in love with..."
-tags: ["Maven"]
+tags: ["Maven", "Life"]
 categories: ["Journal"]
-authors: "Lilac"
+authors: "Lil"
 ---
 
 Myself!

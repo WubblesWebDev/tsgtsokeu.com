@@ -4,7 +4,7 @@ date: 2021-12-09T16:13:30-06:00
 description: "$ hugo new post/hugo.md | $ hugo server -D"
 tags: ["Programming"]
 categories: ["Journal"]
-authors: ["Kid"]
+authors: "Kid"
 ---
 
 So what have I learned? Is making your website from scratch a good way to learn how to program?
