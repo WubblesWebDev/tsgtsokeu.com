@@ -3,7 +3,7 @@ title: "Fav Oldies"
 date: 2021-12-08T14:21:09-06:00
 description: "What is a girl like you doing in a shithole like this, Lilac?"
 tags: [""]
-categories: ["Music"]
+categories: ["Playlist"]
 authors: "Sunny"
 ---
 
